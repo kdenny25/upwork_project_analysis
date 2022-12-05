@@ -1,0 +1,16 @@
+# tabular data organization
+pandas
+
+# syntax formatting
+black
+flake8
+
+# webscrape library
+selenium
+
+# natural language toolkit
+nltk
+
+# data visualization
+seaborn
+matplotlib
